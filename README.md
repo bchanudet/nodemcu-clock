@@ -3,7 +3,7 @@ NodeMCU project for a homemade 7-segment digital clock, synced with NTP
 
 ## Firmware 
 
-The NodeMCU firmware was built against the master branch and includes the following modules: gpio, net, node, rtctime, sntp, tmr, wifi.
+The NodeMCU firmware was built against the master branch and includes the following modules: file gpio net node rtctime sntp tmr uart wifi.
 
 ### Flashing the firmware
 
